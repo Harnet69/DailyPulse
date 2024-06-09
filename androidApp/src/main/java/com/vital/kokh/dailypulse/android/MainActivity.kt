@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailypulse.android
+package com.vital.kokh.dailypulse.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,7 +8,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.petros.efthymiou.dailypulse.Greeting
+import com.vital.kokh.dailypulse.Greeting
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

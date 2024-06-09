@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace = "com.petros.efthymiou.dailypulse.android"
+    namespace = "com.vital.kokh.dailypulse.android"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.petros.efthymiou.dailypulse.android"
+        applicationId = "com.petros.vital.kokh.android"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

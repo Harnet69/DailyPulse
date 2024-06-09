@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailypulse
+package com.vital.kokh.dailypulse
 
 import platform.UIKit.UIDevice
 

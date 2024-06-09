@@ -14,6 +14,8 @@ kotlin {
             }
         }
     }
+
+    task("testClasses")
     
     listOf(
         iosX64(),
@@ -40,7 +42,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.petros.efthymiou.dailypulse"
+    namespace = "com.vital.kokh.dailypulse"
     compileSdk = 34
     defaultConfig {
         minSdk = 24
